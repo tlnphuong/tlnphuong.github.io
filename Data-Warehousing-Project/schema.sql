@@ -29,7 +29,7 @@ CREATE TABLE DimTruck
 CREATE TABLE DimStation
 (
     StationId INTEGER NOT NULL,
-    City CHAR NOT NULL,
+    City VARCHAR(20) NOT NULL,
     PRIMARY KEY (StationId)
 );
 
