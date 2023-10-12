@@ -1,7 +1,7 @@
 BEGIN;
 CREATE SCHEMA waste_management;
 USE waste_management;
--- DROP TABLE IF EXISTS "MyFactTrips";
+-- DROP TABLE IF EXISTS "FactTrips";
 CREATE TABLE FactTrips
 (
     TripId INTEGER NOT NULL,
@@ -27,21 +27,6 @@ CREATE TABLE DimDate
     WeekdayName VARCHAR(20) NOT NULL,
     PRIMARY KEY (DateId)
 );
--- DROP TABLE IF EXISTS DimWaste;
-CREATE TABLE DimWaste
-(
-    WasteId INTEGER NOT NULL,
-    WasteType VARCHAR(20) NOT NULL,
-    PRIMARY KEY (WasteId)
-);
-
--- DROP TABLE IF EXISTS DimZone;
-CREATE TABLE DimZone
-(
-    ZoneId INTEGER NOT NULL,
-    CollectionZone VARCHAR NOT NULL,
-    PRIMARY KEY (ZoneId)
-);
 -- DROP TABLE IF EXISTS DimTruck;
 CREATE TABLE DimTruck
 (
@@ -56,7 +41,8 @@ CREATE TABLE DimStation
     City CHAR NOT NULL,
     PRIMARY KEY (StationId)
 );
-# Run the following queries after having created the above tables
+
+-- Run the following queries after having created the above tables
 ALTER TABLE FactTrips
     ADD FOREIGN KEY (TruckId)
     REFERENCES DimTruck (TruckId)
@@ -71,4 +57,3 @@ ALTER TABLE FactTrips
     REFERENCES DimStation (StationId)
     NOT VALID;
 COMMIT;
-
