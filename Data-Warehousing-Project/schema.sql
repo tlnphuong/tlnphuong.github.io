@@ -1,18 +1,9 @@
 BEGIN;
 CREATE SCHEMA waste_management;
 USE waste_management;
--- DROP TABLE IF EXISTS "FactTrips";
-CREATE TABLE FactTrips
-(
-    TripId INTEGER NOT NULL,
-    Dateid INTEGER NOT NULL,
-    StationId INTEGER NOT NULL,
-    TruckId INTEGER NOT NULL,
-    WasteCollected FLOAT NOT NULL,
-    PRIMARY KEY (TripId)
-);
 
--- DROP TABLE IF EXISTS DimDate;
+-- CREATE TABLES
+
 CREATE TABLE DimDate
 (
     dateid INTEGER NOT NULL,
@@ -27,14 +18,14 @@ CREATE TABLE DimDate
     WeekdayName VARCHAR(20) NOT NULL,
     PRIMARY KEY (DateId)
 );
--- DROP TABLE IF EXISTS DimTruck;
+
 CREATE TABLE DimTruck
 (
     TruckId INTEGER NOT NULL,
-    TruckType VARCHAR (20) NOT NULL,
+    TruckType VARCHAR(20) NOT NULL,
     PRIMARY KEY (TruckId)
 );
--- DROP TABLE IF EXISTS DimStation;
+
 CREATE TABLE DimStation
 (
     StationId INTEGER NOT NULL,
@@ -42,18 +33,17 @@ CREATE TABLE DimStation
     PRIMARY KEY (StationId)
 );
 
--- Run the following queries after having created the above tables
-ALTER TABLE FactTrips
-    ADD FOREIGN KEY (TruckId)
-    REFERENCES DimTruck (TruckId)
-    NOT VALID;
-ALTER TABLE FactTrips
-    ADD FOREIGN KEY (DateId)
-    REFERENCES DimDate (DateId)
-    NOT VALID;
+CREATE TABLE FactTrips
+(
+    TripId INTEGER NOT NULL,
+    Dateid INTEGER NOT NULL,
+    StationId INTEGER NOT NULL,
+    TruckId INTEGER NOT NULL,
+    WasteCollected FLOAT NOT NULL,
+    PRIMARY KEY (TripId),
+    FOREIGN KEY (TruckId) REFERENCES DimTruck (TruckId),
+    FOREIGN KEY (DateId) REFERENCES DimDate (DateId),
+    FOREIGN KEY (StationId) REFERENCES DimStation (StationId)
+);
 
-ALTER TABLE FactTrips
-    ADD FOREIGN KEY (StationId)
-    REFERENCES DimStation (StationId)
-    NOT VALID;
 COMMIT;
