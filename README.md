@@ -1,4 +1,6 @@
-Hi there! Thank you for checking out my portfolio! I love learning new things and always seek development opportunities, so please feel free to reach out if you have any questions/feedback on my work :)
+Hi there! Thank you for checking out my portfolio! I love learning new things and always seek development opportunities, so please feel free to reach out if you have any questions/feedback on my work :) 
+
+🔗 [`Linkedin`](https://www.linkedin.com/in/anna-phuong-tran/)
 ## ⭐️ Portfolio Overview
 This portfolio includes the technical projects listed below. For more details on coding and project report, please click on the folder link. 
 - [`DoorDash Delivery Data Analysis: Visualization, Insights, and Recommendations`](https://github.com/tlnphuong/work-portfolio/tree/main/DoorDash-Delivery-Data-Analysis-Project)
