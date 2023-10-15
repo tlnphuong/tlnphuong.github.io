@@ -2,7 +2,7 @@ Hi there! Thank you for checking out my portfolio! I love learning new things an
 
 **Contact**\
 🔗 [`Linkedin`](https://www.linkedin.com/in/anna-phuong-tran/) \
-📩 tranluunamphuong@gmail.com 
+📩 tranluunamphuong@gmail.com
 ## ⭐️ Portfolio Overview
 This portfolio includes the technical projects listed below. For more details on coding and project report, please click on the folder link.
 
