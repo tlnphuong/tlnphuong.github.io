@@ -6,7 +6,7 @@ Hi there! Thank you for checking out my portfolio! I love learning new things an
 ## ⭐️ Portfolio Overview
 This portfolio includes the technical projects listed below. For more details on coding and project report, please click on the folder link.
 
-- **[`DoorDash Delivery Data Analysis: Visualization, Insights, and Recommendations`](https://github.com/tlnphuong/work-portfolio/tree/main/DoorDash-Delivery-Data-Analysis-Project)**\
+- **[`DoorDash Delivery Data Analysis: Visualization, Insights, and Recommendations`](https://github.com/tlnphuong/work-portfolio/tree/main/DoorDash-Delivery-Data-Analysis-Project)**
 - **[`Data Warehousing and Reporting Dashboard for Solid Waste Management Company`](https://github.com/tlnphuong/work-portfolio/tree/main/Data-Warehousing-Project)**
   
 ## 👋 About Me
