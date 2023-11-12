@@ -1,3 +1,17 @@
+---
+layout: default
+---
+<style>
+body {
+    background-color: orange;
+}
+</style>
+
+# Welcome to My GitHub Pages Site
+
+This is some content for my site.
+
+
 Hi there! Thank you for checking out my portfolio! I love learning new things and always seek development opportunities, so please feel free to reach out if you have any questions/feedback on my work :) 
 
 **Contact**\
