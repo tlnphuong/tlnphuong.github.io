@@ -7,6 +7,7 @@ Hi there! Thank you for checking out my portfolio! I love learning new things an
 ## ⭐️ Portfolio Overview
 - **[`DoorDash Delivery Data Analysis: Visualization, Insights, and Recommendations`](https://github.com/tlnphuong/work-portfolio/tree/main/DoorDash-Delivery-Data-Analysis-Project)**
 - **[`Data Warehousing and Reporting Dashboard for Solid Waste Management Company`](https://github.com/tlnphuong/work-portfolio/tree/main/Data-Warehousing-Project)**
+  ![plot](./Data-Warehousing-Project/Tableau-Dashboard.png)
   
 ## 👋 About Me
 ### 👩🏻‍🏫 Personal Info
