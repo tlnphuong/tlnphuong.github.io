@@ -1,14 +1,4 @@
-<div style="background-color: #f0f0f0; padding: 10px;">
-  [Contact](https://github.com/tlnphuong/tlnphuong.github.io/edit/main/docs/README.md#contact) |
-  [Data Visualization](#data-visualization) |
-  [Key Insights](#key-insights) |
-  [Recommendations](#recommendations) |
-  [Conclusion](#conclusion)
-</div>
-
-👋 Hi there! Thank you for checking out my portfolio! I love learning new things and always seek development opportunities, so please feel free to reach out if you have any questions/feedback on my work :) 
-
-
+👋 Hi there! Thank you for checking out my portfolio! This portfolio is to share my technical projects in the data analytics, business intelligence, and data science fields.
 
 ## ⭐️ Portfolio Overview
 ### **DoorDash Delivery Data Analysis**
@@ -16,7 +6,18 @@
   
 <a href="https://tlnphuong.github.io/doordash-delivery-data-analysis.html" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">Visit project details.</a> 
 
-### Google Capstone Project: ETL-Driven Solution For Bike-share Company 'Cyclistic'
+### Google Business Intelligence Capstone Project
+An ETL-driven solution for a bike-share company, Cyclistic, in New York City. This project is part of the Google Business Intelligence Professional Certificate on Coursera.
+
+<img width="242" alt="image" src="https://github.com/tlnphuong/tlnphuong.github.io/assets/76439999/0692bb98-9371-410a-8ed4-52c97092058a">
+
+In this project: 
+- I automated 2 dashboards that lend insights into bike-share traffic, station congestion, seasonality, and weather impact on 60 million bike trips in New York by implementing an ETL data pipeline-driven solution using SQL in Google BigQuery
+- I designed the ETL data pipeline in Google Dataflow that extracted necessary data from 4 different data sources, aggregated metrics, and loaded the transformed data to target tables and views used for dashboard design in Tableau.
+
+Tools used: SQL (Google BigQuery in Google Cloud), ETL pipeline (Google Dataflow), and Tableau.
+
+<a href="https://tlnphuong.github.io/doordash-delivery-data-analysis.html" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">Visit project details.</a> 
 
 ### **Coursera Project: Data Warehousing & BI Analytics for Solid Waste Management Company**
 
