@@ -1,5 +1,5 @@
 <div style="background-color: #f0f0f0; padding: 10px;">
-  [Contact]([#contact](https://github.com/tlnphuong/tlnphuong.github.io/edit/main/docs/README.md#contact)) |
+  [Contact](https://github.com/tlnphuong/tlnphuong.github.io/edit/main/docs/README.md#contact) |
   [Data Visualization](#data-visualization) |
   [Key Insights](#key-insights) |
   [Recommendations](#recommendations) |
@@ -11,10 +11,12 @@
 
 
 ## ⭐️ Portfolio Overview
-### **DoorDash Delivery Data Analysis: Visualization, Insights, and Recommendations**
+### **DoorDash Delivery Data Analysis**
 
   
 <a href="https://tlnphuong.github.io/doordash-delivery-data-analysis.html" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">Visit project details.</a> 
+
+### Google Capstone Project: ETL-Driven Solution For Bike-share Company 'Cyclistic'
 
 ### **Coursera Project: Data Warehousing & BI Analytics for Solid Waste Management Company**
 
