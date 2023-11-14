@@ -1,6 +1,6 @@
-Hi there 👋 Thank you for checking out my portfolio! This portfolio is to share my technical projects in the data analytics, business intelligence, and data science fields.
-
 [About Me](https://tlnphuong.github.io/#about-me) | [Background](https://tlnphuong.github.io/#background) | [Technical Projects](https://tlnphuong.github.io/#technical-projects) | [Contact](https://tlnphuong.github.io/#contact) 
+
+Hi there 👋 Thank you for checking out my portfolio! This portfolio is to share my technical projects in the data analytics, business intelligence, and data science fields.
 
 ## Technical Projects
 ### **DoorDash Delivery Data Analysis**
@@ -10,13 +10,10 @@ Hi there 👋 Thank you for checking out my portfolio! This portfolio is to shar
 
 
 ### Google Business Intelligence Capstone Project
-An ETL-driven solution for a bike-share company, Cyclistic, in New York City. This project is part of the Google Business Intelligence Professional Certificate on Coursera.
-
-<img width="242" alt="image" src="https://github.com/tlnphuong/tlnphuong.github.io/assets/76439999/0692bb98-9371-410a-8ed4-52c97092058a">
-
-In this project: 
-- I automated 2 dashboards that lend insights into bike-share traffic, station congestion, seasonality, and weather impact on 60 million bike trips in New York by implementing an ETL data pipeline-driven solution using SQL in Google BigQuery
-- I designed the ETL data pipeline in Google Dataflow that extracted necessary data from 4 different data sources, aggregated metrics, and loaded the transformed data to target tables and views used for dashboard design in Tableau.
+<p align="center">
+<img width="576" alt="Screenshot 2023-11-14 at 4 28 26 AM" src="https://github.com/tlnphuong/tlnphuong.github.io/assets/76439999/a562835d-4db9-4a94-a5d2-421e5029c3fc">
+</p>
+An ETL-driven solution for a bike-share company, Cyclistic, in New York City. This project is part of the Google Business Intelligence Professional Certificate on Coursera. In this project, I automated 2 dashboards that lend insights into bike-share traffic, seasonality, and weather impact on 60 million bike trips in New York city by implementing an ETL data pipeline that extracted necessary data from 4 different data sources, aggregated metrics, and loaded the transformed data to target tables and views used for dashboard design in Tableau.
 
 Tools used: SQL (Google BigQuery in Google Cloud), ETL pipeline (Google Dataflow), and Tableau.
 
