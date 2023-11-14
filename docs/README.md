@@ -7,7 +7,7 @@ Hi there! Thank you for checking out my portfolio! I love learning new things an
 
 ## ⭐️ Portfolio Overview
 - **[`DoorDash Delivery Data Analysis: Visualization, Insights, and Recommendations`](doordash-delivery-data-analysis.md)**
-- **[`Data Warehousing and Reporting Dashboard for Solid Waste Management Company`](doordash-delivery-data-analysis.md)**
+- **[`Data Warehousing and Reporting Dashboard for Solid Waste Management Company`](data-warehousing-bi-analytics.md)**
 
    ![plot](../Data-Warehousing-Project/Tableau-Dashboard.png)
   
