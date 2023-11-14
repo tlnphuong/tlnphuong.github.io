@@ -1,10 +1,14 @@
-👋 Hi there! Thank you for checking out my portfolio! This portfolio is to share my technical projects in the data analytics, business intelligence, and data science fields.
+## Portfolio Overview
+Hi there 👋 Thank you for checking out my portfolio! This portfolio is to share my technical projects in the data analytics, business intelligence, and data science fields.
 
-## ⭐️ Portfolio Overview
+[About Me](https://tlnphuong.github.io/#about-me) | [Background]() | [Technical Projects](https://tlnphuong.github.io/#technical-projects) | [Contact](https://tlnphuong.github.io/#contact) 
+
+## Technical Projects
 ### **DoorDash Delivery Data Analysis**
 
   
 <a href="https://tlnphuong.github.io/doordash-delivery-data-analysis.html" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">Visit project details.</a> 
+
 
 ### Google Business Intelligence Capstone Project
 An ETL-driven solution for a bike-share company, Cyclistic, in New York City. This project is part of the Google Business Intelligence Professional Certificate on Coursera.
@@ -38,7 +42,9 @@ I realized my passion for data analytics after I spent almost a year working as 
 ### 👩🏻‍💻 Technical Skillset
 **Database**:
  SQL, Python, Data Visualization (Tableau, Looker, Google Data Studio), Excel/Word/Powerpoint.
- 
+
+## Background
+
 ## **Contact**
 🔗 [`Linkedin`](https://www.linkedin.com/in/anna-phuong-tran/) \
 📩 tranluunamphuong@gmail.com
