@@ -1,3 +1,4 @@
+<div style="background-color: #f0f0f0; padding: 20px;">
 
 Hi there! Thank you for checking out my portfolio! I love learning new things and always seek development opportunities, so please feel free to reach out if you have any questions/feedback on my work :) 
 
@@ -27,6 +28,7 @@ I realized my passion for data analytics after I spent almost a year working as 
 **Database**:
  SQL, Python, Data Visualization (Tableau, Looker, Google Data Studio), Excel/Word/Powerpoint.
 
+</div>
 
 
 
