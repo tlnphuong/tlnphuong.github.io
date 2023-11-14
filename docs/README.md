@@ -1,5 +1,5 @@
 <div style="background-color: #f0f0f0; padding: 10px;">
-  [Contact](#contact) |
+  [Contact]([#contact](https://github.com/tlnphuong/tlnphuong.github.io/edit/main/docs/README.md#contact)) |
   [Data Visualization](#data-visualization) |
   [Key Insights](#key-insights) |
   [Recommendations](#recommendations) |
@@ -8,9 +8,7 @@
 
 👋 Hi there! Thank you for checking out my portfolio! I love learning new things and always seek development opportunities, so please feel free to reach out if you have any questions/feedback on my work :) 
 
-## **Contact**
-🔗 [`Linkedin`](https://www.linkedin.com/in/anna-phuong-tran/) \
-📩 tranluunamphuong@gmail.com
+
 
 ## ⭐️ Portfolio Overview
 ### **DoorDash Delivery Data Analysis: Visualization, Insights, and Recommendations**
@@ -37,7 +35,10 @@ I realized my passion for data analytics after I spent almost a year working as 
 ### 👩🏻‍💻 Technical Skillset
 **Database**:
  SQL, Python, Data Visualization (Tableau, Looker, Google Data Studio), Excel/Word/Powerpoint.
-
+ 
+## **Contact**
+🔗 [`Linkedin`](https://www.linkedin.com/in/anna-phuong-tran/) \
+📩 tranluunamphuong@gmail.com
 
 
 
