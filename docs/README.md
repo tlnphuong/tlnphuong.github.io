@@ -1,19 +1,28 @@
+<div style="background-color: #f0f0f0; padding: 10px;">
+  [Introduction](#introduction) |
+  [Data Visualization](#data-visualization) |
+  [Key Insights](#key-insights) |
+  [Recommendations](#recommendations) |
+  [Conclusion](#conclusion)
+</div>
 
-<a href="https://tlnphuong.github.io/doordash-delivery-data-analysis.html" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">Visit project details.</a>    <a href="https://tlnphuong.github.io/doordash-delivery-data-analysis.html" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">Visit project details.</a>    <a href="https://tlnphuong.github.io/doordash-delivery-data-analysis.html" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">Visit project details.</a>
+👋 Hi there! Thank you for checking out my portfolio! I love learning new things and always seek development opportunities, so please feel free to reach out if you have any questions/feedback on my work :) 
 
-Hi there! Thank you for checking out my portfolio! I love learning new things and always seek development opportunities, so please feel free to reach out if you have any questions/feedback on my work :) 
-
-**Contact**\
+## **Contact**
 🔗 [`Linkedin`](https://www.linkedin.com/in/anna-phuong-tran/) \
 📩 tranluunamphuong@gmail.com
 
 ## ⭐️ Portfolio Overview
-- **[`DoorDash Delivery Data Analysis: Visualization, Insights, and Recommendations`](doordash-delivery-data-analysis.md)**
-- **[`Data Warehousing and Reporting Dashboard for Solid Waste Management Company`](data-warehousing-bi-analytics.md)**
+### **DoorDash Delivery Data Analysis: Visualization, Insights, and Recommendations**
+
+  
+<a href="https://tlnphuong.github.io/doordash-delivery-data-analysis.html" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">Visit project details.</a> 
+
+### **Coursera Project: Data Warehousing & BI Analytics for Solid Waste Management Company**
 
    ![plot](../Data-Warehousing-Project/Tableau-Dashboard.png)
   
-## 👋 About Me
+## About Me
 ### 👩🏻‍🏫 Personal Info
 My name is Phuong Tran but I prefer to go by Anna. I am originally from Vietnam 🇻🇳. I embarked on my studying-abroad journey in 2019 to challenge myself living an independent life and to learn diverse perspectives from all walks of life. It has been an exciting and furious journey of self-growth, personally and professionally!!
 
