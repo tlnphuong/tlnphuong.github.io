@@ -1,5 +1,5 @@
 <div style="background-color: #f0f0f0; padding: 10px;">
-  [Introduction](#introduction) |
+  [Contact](#contact) |
   [Data Visualization](#data-visualization) |
   [Key Insights](#key-insights) |
   [Recommendations](#recommendations) |
