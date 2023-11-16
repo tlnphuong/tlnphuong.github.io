@@ -1,4 +1,6 @@
-[About Me](https://tlnphuong.github.io/#about-me) | [Background](https://tlnphuong.github.io/#background) | [Technical Projects](https://tlnphuong.github.io/#technical-projects) | [Contact](https://tlnphuong.github.io/#contact) 
+<p width=100%>
+[About Me](https://tlnphuong.github.io/#about-me) | [Background](https://tlnphuong.github.io/#background) | [Technical Projects](https://tlnphuong.github.io/#technical-projects) | [Contact](https://tlnphuong.github.io/#contact)
+</p>
 
 Hi there 👋 Thank you for checking out my portfolio! This portfolio is to share my technical projects in the data analytics, business intelligence, and data science fields.
 
